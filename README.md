@@ -2,7 +2,7 @@
 
 [Github](https://github.com/Jeremy-Barrass)
 
-As a programmer, now tempered with pragmatism about what is realistic to achieve in a given timescale, I want to get things working, fulfil ticket and project requirements and ensure future programmers will understand the intent of the code I have written.   I want to push the boundaries of what my Team feels they can achieve, expand my colleagues' knowledge and comprehension and improve my employer's capacity to access the resources they need.  I've learned a great deal in the last three years about competent programming, Agile practices, problem solving, good teamwork and pairing.  I _will_ make the world a better place.  I would love to contribute this potential to the space industry, such as ESA's EXOMars Rover or the Sentinel Satellite programme, where I can apply my problem solving skills to one of my true passions.
+As a programmer, now tempered with pragmatism about what is realistic to achieve in a given timescale, I want to get things working, fulfil ticket and project requirements and ensure future programmers will understand the intent of the code I have written.   I want to push the boundaries of what my Team feels they can achieve, expand my colleagues' knowledge and comprehension and improve my employer's capacity to access the resources they need.  I've learned a great deal in the last three years about programming best practice, Agile practices, problem solving, good teamwork and pairing.  I would love to contribute this potential to the space industry, such as ESA's EXOMars Rover or the Sentinel Satellite programme, where I can apply my problem solving skills to one of my true passions.
 
 ## Familiar Tech
 
