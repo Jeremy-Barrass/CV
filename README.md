@@ -21,6 +21,7 @@ At Priority One It, I have joined the development team for a startup product, Th
 
 Significant tickets I have worked on include:-
 
+* Building a cross-monitor Task List view of assigned Alerts.
 * Writing new API response analysis services for a new client.
 * Refactoring existing response analysis services to fit better with a new solution architecture.
 * Fixing UI bugs in the frontend code.
