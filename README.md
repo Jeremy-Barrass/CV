@@ -2,7 +2,7 @@
 
 [Github](https://github.com/Jeremy-Barrass)
 
-As a programmer, now tempered with pragmatism about what is realistic to achieve in a given timescale, I want to get things working, fulfil ticket and project requirements and ensure future programmers will understand the intent of the code I have written.   I want to push the boundaries of what my Team feels they can achieve, expand my colleagues' knowledge and comprehension and improve my employer's capacity to access the resources they need.  I've learned a great deal in the last three years about programming best practice, Agile practices, problem solving, good teamwork and pairing.  I would love to contribute this potential to the space industry, such as ESA's EXOMars Rover or the Sentinel Satellite programme, where I can apply my problem solving skills to one of my true passions.
+As a programmer, now tempered with pragmatism about what is realistic to achieve in a given timescale, I want to get things working, fulfil ticket and project requirements and ensure future programmers will understand the intent of the code I have written.   I want to push the boundaries of what my Team feels they can achieve, expand my colleagues' knowledge and comprehension and improve my employer's capacity to access the resources they need.  I've learned a great deal in the last four years about programming best practice, Agile practices, problem solving, good teamwork and pairing.  I would love to contribute this potential to the space industry, such as ESA's EXOMars Rover or the Sentinel Satellite programme, where I can apply my problem solving skills to one of my true passions.
 
 ## Familiar Tech
 
@@ -17,10 +17,12 @@ As a programmer, now tempered with pragmatism about what is realistic to achieve
 
 #### Priority One IT (ThreatAware), _May 2019 - Present_
 
-At Priority One It, I have joined the development team for a startup product, ThreatAware, a Cybersecurity Dashboard for monitoring and compliance.  I have worked on a number of code cleanups, working with C# in .NET Core and javascript with Angular version 7, and am gradually introducing automated unit and integration testing into the codebase.  New product features are regularly being floated, particularly when potential new customers want the product to include an additional monitor for another service they're subscribed to.
+Working at Priority One IT has afforded me the opportunity to work with a small team on a startup product, ThreatAware, a Cybersecurity Dashboard for monitoring and compliance.  I have worked on a number of code cleanups, working with C# in .NET Core and javascript with Angular version 7, and am gradually introducing automated unit and integration testing into the codebase.  New product features are regularly being floated, particularly when potential new customers want the product to include an additional monitor for another service they're subscribed to.
 
 Significant tickets I have worked on include:-
 
+* Updating and improving the user experience in data table displays across the product.
+* Adding a new grid framework into the front-end UI codebase.
 * Building a cross-monitor Task List view of assigned Alerts.
 * Writing new API response analysis services for a new client.
 * Refactoring existing response analysis services to fit better with a new solution architecture.
