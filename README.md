@@ -2,7 +2,7 @@
 
 [Github](https://github.com/Jeremy-Barrass)
 
-As a programmer, tempered with pragmatism about what is realistic to achieve in a given timescale, I want to get things working, fulfil ticket and project requirements and ensure future programmers will understand the intent of the code I have written.   I want to push the boundaries of what my Team feels they can achieve, expand my colleagues' knowledge and comprehension and improve my employer's capacity to access the resources they need.  I've learned a great deal in the last four years about programming best practice, Agile practices, problem solving, good teamwork and pairing.  I would love to contribute this potential to the space industry, such as ESA's EXOMars Rover or the Sentinel Satellite programme, where I can apply my problem solving skills to one of my true passions.
+As a programmer, I want to get things working, fulfil ticket and project requirements and ensure future programmers will understand the intent of the code I have written.   I want to push the boundaries of what my Team feels they can achieve, expand my colleagues' knowledge and comprehension and improve my employer's capacity to access the resources they need.  I've learned a great deal in the last five years about programming best practice, Agile practices, problem solving, good teamwork and pair programming.  I would love to contribute this potential to the space industry, such as ESA's EXOMars Rover or the ESA Sentinel Satellite programme, where I can apply my problem solving skills to one of my true passions.
 
 ## Familiar Tech
 
@@ -15,11 +15,24 @@ As a programmer, tempered with pragmatism about what is realistic to achieve in 
 
 ## Software Engineering Experience
 
-#### Priority One IT (ThreatAware), _May 2019 - Present_
+#### Cirium, _April 2020 - Present_
 
-Working at Priority One IT has afforded me the opportunity to work with a small team on a startup product, ThreatAware, a Cybersecurity Dashboard for monitoring and compliance.  I have worked on a number of code cleanups, working with C# in .NET Core and javascript with Angular version 7, and am gradually introducing automated unit and integration testing into the codebase.  New product features are regularly being floated, particularly when potential new customers want the product to include an additional monitor for another service they're subscribed to.
+Cirium gave me opportunities to improve my knowledge of SQL procedures and application system architectures, as well as exposing me to a different code release process compared to previous jobs.  I worked on a variety of bugs and improvements to both customer facing and internal products.  Tickets and projects I worked on include:
 
-Significant tickets I have worked on include:-
+* Removing PII from product usage tags.
+* Updating filters and saved searches with more accurate nomenclature.
+* Sunsetting unsupported subscirption peripherals.
+* Removing product access to divested publications.
+* Adding important user information to page views.
+* Adjustments to the autopopulate behaviour of CMS fields.
+* Linking different filter sources correctly when changing filter selections.
+* Updates to SQL Database data and stored procedures to fix various product and CMS bugs.
+
+#### Priority One IT (ThreatAware), _May 2019 - March 2020_
+
+Working at Priority One IT was an opportunity to work with a small team on a startup product, ThreatAware, a Cybersecurity Dashboard for monitoring and compliance.  I worked on a number of code cleanups, working with C# in .NET Core and javascript with Angular version 7, and gradually introduced automated unit and integration testing into the codebase.  New product features were regularly floated, particularly when potential new customers wanted the product to include an additional monitor for another service they were subscribed to.
+
+Significant tickets I worked on include:-
 
 * Updating and improving the user experience in data table displays across the product.
 * Adding a new grid framework into the front-end UI codebase.
