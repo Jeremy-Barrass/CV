@@ -28,6 +28,8 @@ Cirium gave me opportunities to improve my knowledge of SQL procedures and appli
 * Linking different filter sources correctly when changing filter selections.
 * Updates to SQL Database data and stored procedures to fix various product and CMS bugs.
 
+I have also engaged with the business' exploration of starting a UK based Out of Hours support team for their products, helping audit existing health check urls in our health check provider against those in our code base.  
+
 #### Priority One IT (ThreatAware), _May 2019 - March 2020_
 
 Working at Priority One IT was an opportunity to work with a small team on a startup product, ThreatAware, a Cybersecurity Dashboard for monitoring and compliance.  I worked on a number of code cleanups, working with C# in .NET Core and javascript with Angular version 7, and gradually introduced automated unit and integration testing into the codebase.  New product features were regularly floated, particularly when potential new customers wanted the product to include an additional monitor for another service they were subscribed to.
