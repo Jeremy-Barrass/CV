@@ -15,7 +15,7 @@ As a programmer, I want to get things working, fulfil ticket and project require
 
 ## Software Engineering Experience
 
-#### Cirium, _April 2020 - Present_
+#### Cirium, _April 2020 - February 2021_
 
 Cirium gave me opportunities to improve my knowledge of SQL procedures and application system architectures, as well as exposing me to a different code release process compared to previous jobs.  I worked on a variety of bugs and improvements to both customer facing and internal products.  Tickets and projects I worked on include:
 
@@ -28,7 +28,7 @@ Cirium gave me opportunities to improve my knowledge of SQL procedures and appli
 * Linking different filter sources correctly when changing filter selections.
 * Updates to SQL Database data and stored procedures to fix various product and CMS bugs.
 
-I have also engaged with the business' exploration of starting a UK based Out of Hours support team for their products, helping audit existing health check urls in our health check provider against those in our code base.  
+I also engaged with the business' exploration of starting a UK based Out of Hours support team for their products, contributing to an audit of the existing health check urls in their health check provider against those in the products' code base.  
 
 #### Priority One IT (ThreatAware), _May 2019 - March 2020_
 
