@@ -8,7 +8,7 @@ As a programmer, I want to get things working, fulfil ticket and project require
 
 * **Cloud Computing**: AWS, Consul, Terraform
 * **Code Deployment**: GO CD, Team City, Heroku
-* **System Monitoring**: Prometheus, Grafana, Splunk, Eggplant Site Monitoring Services
+* **System Monitoring**: Prometheus, Grafana, Splunk, Eggplant Site Monitoring Services, StatusCake
 * **Frameworks**: Node, Moustache, Angular
 * **Programming _et. al._ Languages**: C Sharp, Java, Javascript, Ruby, Python, Sass
 * **Databases**: MongoDB, SQL DB.
@@ -17,7 +17,7 @@ As a programmer, I want to get things working, fulfil ticket and project require
 
 #### Cirium, _April 2020 - February 2021_
 
-Cirium gave me opportunities to improve my knowledge of SQL procedures and application system architectures, as well as exposing me to a different code release process compared to previous jobs.  I worked on a variety of bugs and improvements to both customer facing and internal products.  Tickets and projects I worked on include:
+Cirium gave me opportunities to improve my knowledge of SQL procedures and application system architectures, as well as exposing me to a different code release process compared to previous jobs.  I worked on a variety of bugs and improvements to both customer facing and internal products, using C# .NET Core, Javascript with Angular.js and SQL.  Tickets and projects I worked on include:
 
 * Removing PII from product usage tags.
 * Updating filters and saved searches with more accurate nomenclature.
