@@ -2,7 +2,7 @@
 
 [Github](https://github.com/Jeremy-Barrass)
 
-As a programmer, I want to get things working, fulfil ticket and project requirements and ensure future programmers will understand the intent of the code I have written.   I want to push the boundaries of what my Team feels they can achieve, expand my colleagues' knowledge and comprehension and improve my employer's capacity to access the resources they need.  I've learned a great deal in the last five years about programming best practice, Agile practices, problem solving, good teamwork and pair programming.  I would love to contribute this potential to the space industry, such as ESA's EXOMars Rover or the ESA Sentinel Satellite programme, where I can apply my problem solving skills to one of my true passions.
+As a programmer, I want to get things working, fulfil ticket and project requirements and ensure future programmers will understand the intent of the code I have written.   I want to push the boundaries of what my Team feels they can achieve, expand my colleagues' knowledge and comprehension and improve my employer's capacity to access the resources they need.  I've learned a great deal in the last nine years about programming best practice, Agile practices, problem solving, good teamwork and pair programming.  I would love to contribute this potential to the space industry, such as ESA's EXOMars Rover or the ESA Sentinel Satellite programme, where I can apply my problem solving skills to one of my true passions.
 
 ## Familiar Tech
 
@@ -14,6 +14,17 @@ As a programmer, I want to get things working, fulfil ticket and project require
 * **Databases**: MongoDB, SQL DB.
 
 ## Software Engineering Experience
+
+#### PA Consulting _May 2021 - Present_
+
+PA Consulting has allowed me to work on a wide variety of software engineering and IaaS projects, and engage in training opportunities, including:
+
+* Microsoft Certifications: Azure Fudamentals, Azure Developer Associate.
+* Enterprise Architecture training.
+* Leading the design and build of CI/CD Processes and Infrastructure.
+* Researching and implementing new features in application code bases.
+* Building functionality in Backend Microservices.
+* Debugging application components to achieve data processing and utilisation improvements in downstream componenets.
 
 #### Cirium, _April 2020 - February 2021_
 
