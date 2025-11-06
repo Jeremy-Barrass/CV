@@ -19,7 +19,7 @@ As a programmer, I want to get things working, fulfil ticket and project require
 
 PA Consulting has allowed me to work on a wide variety of software engineering and IaaS projects, and engage in training opportunities, including:
 
-* Microsoft Certifications: Azure Fudamentals, Azure Developer Associate.
+* Microsoft Certifications: Azure Fundamentals, Azure Developer Associate.
 * Enterprise Architecture training.
 * Leading the design and build of CI/CD Processes and Infrastructure.
 * Researching and implementing new features in application code bases.
